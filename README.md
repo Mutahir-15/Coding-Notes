@@ -5,12 +5,12 @@ I have created this repository to share valuable learning resources and make kno
 
 🟢 HTML & CSS – Web fundamentals at your fingertips  
 🔵 TypeScript – Mastering the modern web  
-🐍 Python – Unlocking the power of coding  
+🐍 Python – Unlocking the power of coding<br>
 
 **🎯 Why This Repo?**<br>
 ✅ To help learners—whether beginners or advanced—grasp concepts quickly  
 ✅ To make knowledge free and accessible beyond borders  
-✅ To create a collaborative space for sharing and growing together  
+✅ To create a collaborative space for sharing and growing together  <br>
 
 **⭐ Feel free to explore and share!**<br>
 **Together, we can build a stronger, more knowledgeable tech community.**
