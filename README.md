@@ -7,7 +7,7 @@ I have created this repository to share valuable learning resources and make kno
 🔵 TypeScript – Mastering the modern web  
 🐍 Python – Unlocking the power of coding  
 
-**🎯 Why This Repo?**
+**🎯 Why This Repo?**<br>
 ✅ To help learners—whether beginners or advanced—grasp concepts quickly  
 ✅ To make knowledge free and accessible beyond borders  
 ✅ To create a collaborative space for sharing and growing together  
