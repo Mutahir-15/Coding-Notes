@@ -1,6 +1,6 @@
 # 🌍 Knowledge Without Borders – Open Source Learning Hub 🚀
-**Panaversity learn modern-ai-python:** https://github.com/panaversity/learn-modern-ai-python<br>
-**Panaversity learm-agentic-ai:** https://github.com/panaversity/learn-agentic-ai<br>
+**Panaversity learn-agentic-ai:** https://github.com/panaversity/learn-agentic-ai<br>
+**Panaversity learn-modern-ai-python:** https://github.com/panaversity/learn-modern-ai-python<br>
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
 **📌 What's Inside?** <br>This repository contains cheat sheets, PDFs, and notes on various technologies, including:
