@@ -1,4 +1,5 @@
 # 🌍 Knowledge Without Borders – Open Source Learning Hub 🚀
+**Cheatography (must visit):** https://cheatography.com/<br>
 **Panaversity learn-nextjs:** https://github.com/panaverse/learn-nextjs<br>
 **Panaversity learn-typescript:** https://github.com/panaverse/learn-typescript<br>
 **Panaversity learn-agentic-ai:** https://github.com/panaversity/learn-agentic-ai<br>
@@ -7,7 +8,6 @@
 **Streamlit Cheat-Sheet:** https://docs.streamlit.io/develop/quick-reference/cheat-sheet<br>
 **w3schools:** https://www.w3schools.com/<br>
 **DevDocs:** https://devdocs.io/<br>
-**Cheatography (must visit):** https://cheatography.com/<br>
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
 **📌 What's Inside?** <br>This repository contains cheat sheets, PDFs, and notes on various technologies, including:
