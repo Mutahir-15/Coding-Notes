@@ -8,7 +8,7 @@
 
 **📌 What's Inside?** <br>This repository contains cheat sheets, PDFs, and notes on various technologies, including:
 
-🟢 HTML & CSS – Web fundamentals at your fingertips  
+🟢 HTML & CSS – Web fundamentals at your fingertips...
 🔵 TypeScript – Mastering the modern web  
 🐍 Python – Unlocking the power of coding<br>
 
