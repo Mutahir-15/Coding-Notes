@@ -13,6 +13,11 @@
 # 📌 Free PDFs & Books:
 **Goalkicker (Free Notes and PDFs):** https://goalkicker.com/<br>
 **Eloquent Javascript (A must read for Javascript Developers):** https://eloquentjavascript.net/<br>
+# 📌 Open-Source Learning Repositories:
+**The Algorithms:** http://github.com/TheAlgorithms<br>
+**Public APIs (Free APIs for practice):** https://github.com/public-apis/public-apis<br>
+**30 Seconds of Code (Short & Useful Code Snippets):** https://www.30secondsofcode.org/<br>
+**Frontend Developers Resources:** https://github.com/dypsilon/frontend-dev-bookmarks<br>
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
