@@ -1,24 +1,27 @@
 # 🌍 Knowledge Without Borders – Open Source Learning Hub 🚀
 # 📌 Free Cheat Sheets & Notes:
-**Cheatography (must visit):** https://cheatography.com/<br>
-**DevDocs:** https://devdocs.io/<br>
-**w3schools:** https://www.w3schools.com/<br>
-**Learn X in Y minutes:** https://learnxinyminutes.com/<br>
-**Streamlit Guide:** https://www.youtube.com/watch?v=8W8NQFFbDcU<br>
-**Streamlit Cheat-Sheet:** https://docs.streamlit.io/develop/quick-reference/cheat-sheet<br>
+- **[Cheatography (must visit)](https://cheatography.com/)**
+- **[DevDocs](https://devdocs.io/)**
+- **[w3schools](https://www.w3schools.com/)**
+- **[Learn X in Y minutes](https://learnxinyminutes.com/)**
+- **[Streamlit Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
+- **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
+
 # 📌 Free Panaversity Repositories:
-**Panaversity learn-nextjs:** https://github.com/panaverse/learn-nextjs<br>
-**Panaversity learn-typescript:** https://github.com/panaverse/learn-typescript<br>
-**Panaversity learn-agentic-ai:** https://github.com/panaversity/learn-agentic-ai<br>
-**Panaversity learn-modern-ai-python:** https://github.com/panaversity/learn-modern-ai-python<br>
+- **[Panaversity learn-nextjs](https://github.com/panaverse/learn-nextjs)**
+- **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
+- **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
+- **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
+
 # 📌 Free PDFs & Books:
-**Goalkicker (Free Notes and PDFs):** https://goalkicker.com/<br>
-**Eloquent Javascript (A must read for Javascript Developers):** https://eloquentjavascript.net/<br>
+- **[Goalkicker (Free Notes and PDFs)](https://goalkicker.com/)**
+- **[Eloquent Javascript (A must read for Javascript Developers)](https://eloquentjavascript.net/)**
+
 # 📌 Open-Source Learning Repositories:
-**The Algorithms:** http://github.com/TheAlgorithms<br>
-**Public APIs (Free APIs for practice):** https://github.com/public-apis/public-apis<br>
-**30 Seconds of Code (Short & Useful Code Snippets):** https://www.30secondsofcode.org/<br>
-**Frontend Developers Resources:** https://github.com/dypsilon/frontend-dev-bookmarks<br>
+- **[The Algorithms](http://github.com/TheAlgorithms)**
+- **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
+- **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
+- **[Frontend Developers Resources](https://github.com/dypsilon/frontend-dev-bookmarks)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
