@@ -1,6 +1,6 @@
 # 🌍 Knowledge Without Borders – Open Source Learning Hub 🚀
 # 📌 Free Cheat Sheets & Notes:
-**Cheatography (must visit):** https://cheatography.com/<br>
+(**Cheatography (must visit):**)[https://cheatography.com/]<br>
 **DevDocs:** https://devdocs.io/<br>
 **w3schools:** https://www.w3schools.com/<br>
 **Learn X in Y minutes:** https://learnxinyminutes.com/<br>
