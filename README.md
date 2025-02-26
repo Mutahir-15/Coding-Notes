@@ -23,6 +23,7 @@
 - **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
 - **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
 - **[Frontend Developers Resources](https://github.com/dypsilon/frontend-dev-bookmarks)**
+- **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
