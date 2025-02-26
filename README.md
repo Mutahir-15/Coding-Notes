@@ -14,6 +14,7 @@
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
 
 # 📌 Free PDFs & Books:
+- **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
 - **[Goalkicker (Free Notes and PDFs)](https://goalkicker.com/)**
 - **[Eloquent Javascript (A must read for Javascript Developers)](https://eloquentjavascript.net/)**
 
