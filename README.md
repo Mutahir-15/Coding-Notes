@@ -18,6 +18,7 @@
 - **[Eloquent Javascript (A must read for Javascript Developers)](https://eloquentjavascript.net/)**
 
 # 📌 Open-Source Learning Repositories:
+- **[Streamlit Games](https://github.com/joelgrus/streamlit-games)**
 - **[The Algorithms](http://github.com/TheAlgorithms)**
 - **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
 - **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
