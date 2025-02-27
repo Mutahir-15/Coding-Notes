@@ -26,6 +26,7 @@
 - **[Frontend Developers Resources](https://github.com/dypsilon/frontend-dev-bookmarks)**
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
+- **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
