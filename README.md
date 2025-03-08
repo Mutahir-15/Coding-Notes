@@ -37,6 +37,7 @@
 - **[The Importance of Code Reviews](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)**
 - **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
 - **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
+- **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
