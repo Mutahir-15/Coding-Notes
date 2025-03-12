@@ -38,6 +38,7 @@
 - **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
 - **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
+- **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
