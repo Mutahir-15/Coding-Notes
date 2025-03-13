@@ -1,11 +1,12 @@
 # 🌍 Knowledge Without Borders – Open Source Learning Hub 🚀
 # 📌 Free Cheat Sheets & Notes:
-- **[Cheatography (must visit)](https://cheatography.com/)**
 - **[DevDocs](https://devdocs.io/)**
 - **[w3schools](https://www.w3schools.com/)**
-- **[Learn X in Y minutes](https://learnxinyminutes.com/)**
+- **[CodingNotes.io](https://www.codingnotes.io/)**
 - **[Streamlit Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
+- **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
+- **[Cheatography (must visit)](https://cheatography.com/)**
 
 # 📌 Free Panaversity Repositories:
 - **[Panaversity YouTube](https://www.youtube.com/@panaverse)**
