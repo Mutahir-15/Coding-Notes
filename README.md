@@ -8,6 +8,7 @@
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 
 # 📌 Free Panaversity Repositories:
+- **[Panaversity YouTube](https://www.youtube.com/@panaverse)**
 - **[Panaversity learn-nextjs](https://github.com/panaverse/learn-nextjs)**
 - **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
