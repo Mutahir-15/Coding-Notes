@@ -27,6 +27,7 @@
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
 - **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
+- **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
   
 # 📌 Must Read Articles:
 - **[How to Write Clean, Maintainable Code](https://www.freecodecamp.org/news/10-principles-of-clean-code/)**
@@ -39,7 +40,7 @@
 - **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
-- **[6 repos To Master Nextjs](https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c)**
+- **[How to Use Zod for React API Validation](http://freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
