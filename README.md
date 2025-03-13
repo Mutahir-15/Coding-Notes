@@ -29,6 +29,7 @@
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
 - **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
+- **[Awsome DeepSeek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev)**
   
 # 📌 Must Read Articles:
 - **[How to Write Clean, Maintainable Code](https://www.freecodecamp.org/news/10-principles-of-clean-code/)**
