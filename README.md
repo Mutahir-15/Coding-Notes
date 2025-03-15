@@ -4,7 +4,7 @@
 - **[w3schools](https://www.w3schools.com/)**
 - **[CodingNotes.io](https://www.codingnotes.io/)**
 - **[Streamlit Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
-- **[Python CheetSheet](https://www.pythoncheatsheet.org/)**
+- **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Cheatography (must visit)](https://cheatography.com/)**
