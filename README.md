@@ -4,10 +4,10 @@
 - **[w3schools](https://www.w3schools.com/)**
 - **[CodingNotes.io](https://www.codingnotes.io/)**
 - **[Streamlit Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
-- **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
+- **[Next.JS YouTube Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Cheatography (must visit)](https://cheatography.com/)**
 
 # 📌 Free Panaversity Repositories:
