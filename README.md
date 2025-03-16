@@ -23,28 +23,28 @@
 - **[Eloquent Javascript (A must read for Javascript Developers)](https://eloquentjavascript.net/)**
 
 # 📌 Open-Source Learning Repositories:
-- **[Streamlit Games](https://github.com/joelgrus/streamlit-games)**
 - **[The Algorithms](http://github.com/TheAlgorithms)**
-- **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
-- **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
+- **[Streamlit Games](https://github.com/joelgrus/streamlit-games)**
+- **[Awsome DeepSeek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev)**
+- **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
 - **[Frontend Developers Resources](https://github.com/dypsilon/frontend-dev-bookmarks)**
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
-- **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
+- **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
 - **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
-- **[Awsome DeepSeek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev)**
+- **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
   
 # 📌 Must Read Articles:
+- **[Effective Debugging Techniques](https://www.geeksforgeeks.org/debugging-techniques-for-beginners/)**
+- **[The Importance of Code Reviews](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)**
 - **[How to Write Clean, Maintainable Code](https://www.freecodecamp.org/news/10-principles-of-clean-code/)**
 - **[Understanding Python's Data Structures](https://realpython.com/python-data-structures/)**
-- **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
-- **[Effective Debugging Techniques](https://www.geeksforgeeks.org/debugging-techniques-for-beginners/)**
-- **[Mastering Git and GitHub: A Beginner’s Guide](https://guides.github.com/introduction/git-handbook/)**  
-- **[The Importance of Code Reviews](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)**
-- **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
-- **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
-- **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
-- **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
 - **[How to Use Zod for React API Validation](http://freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)**
+- **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
+- **[Mastering Git and GitHub: A Beginner’s Guide](https://guides.github.com/introduction/git-handbook/)**
+- **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
+- **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
+- **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
+- **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
