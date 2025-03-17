@@ -44,6 +44,7 @@
 - **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
 - **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
 - **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
+- **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
