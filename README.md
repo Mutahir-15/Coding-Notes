@@ -2,7 +2,7 @@
 # 📌 Free Cheat Sheets & Notes:
 - **[DevDocs](https://devdocs.io/)**
 - **[w3schools](https://www.w3schools.com/)**
-- **[CodingNotes.io](https://www.codingnotes.io/)**
+- **[CodingNotes.io](https://www.codingnotes.io/)** 
 - **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
