@@ -48,6 +48,9 @@
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 
+# 📌 Quizzes and Preperation Material:
+- ****
+
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
 **📌 What's Inside?** <br>This repository contains cheat sheets, PDFs, and notes on various technologies, including:
