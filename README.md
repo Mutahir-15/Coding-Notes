@@ -12,6 +12,7 @@
 - **[Streamlit Basic Guide (YouTube)](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
 - **[Python Crash Cource (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
+- **[Python Exercism | Tutorial and Practice](https://exercism.org/tracks/python/concepts)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 
 # 📌 Free Panaversity Repositories:
