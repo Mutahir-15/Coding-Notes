@@ -50,6 +50,7 @@
 
 # 📌 Quizzes and Preperation Material:
 - **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
+- **[Python Quizzes](https://pynative.com/python/quizzes/)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
