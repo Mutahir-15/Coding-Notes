@@ -11,8 +11,8 @@
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
 - **[Streamlit Basic Guide (YouTube)](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
+- **[Python Exercism | Tutorial/Learn](https://exercism.org/tracks/python/concepts)**
 - **[Python Crash Cource (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
-- **[Python Exercism | Tutorial and Practice](https://exercism.org/tracks/python/concepts)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 
 # 📌 Free Panaversity Repositories:
@@ -59,6 +59,7 @@
 - **[Topic-wise Test Quizzes on Python](https://test.sanfoundry.com/python-programming-tests/#python-programming-test-quizzes)**
 - **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
 - **[Python MCQs (Multiple Choice Questions) with Answers](https://www.geeksforgeeks.org/python-multiple-choice-questions/)**
+- **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
