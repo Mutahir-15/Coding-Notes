@@ -33,7 +33,16 @@
 - **[Awsome DeepSeek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev)**
 - **[Frontend Developers Resources](https://github.com/dypsilon/frontend-dev-bookmarks)**
 - **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
-  
+
+# 📌 Challenge Yourself: Quizzes & Guides:
+- **[Python Quizzes](https://pynative.com/python/quizzes/)**
+- **[W3Schools Python Quiz ](https://www.w3schools.com/python/python_quiz.asp)**
+- **[Python Quizzes (realpython.com)](https://realpython.com/quizzes/)**
+- **[Topic-wise Test Quizzes on Python](https://test.sanfoundry.com/python-programming-tests/#python-programming-test-quizzes)**
+- **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
+- **[Python MCQs (Multiple Choice Questions) with Answers](https://www.geeksforgeeks.org/python-multiple-choice-questions/)**
+- **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
+
 # 📌 Must Read Articles:
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
@@ -51,15 +60,6 @@
 - **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
-
-# 📌 Challenge Yourself: Quizzes & Guides:
-- **[Python Quizzes](https://pynative.com/python/quizzes/)**
-- **[W3Schools Python Quiz ](https://www.w3schools.com/python/python_quiz.asp)**
-- **[Python Quizzes (realpython.com)](https://realpython.com/quizzes/)**
-- **[Topic-wise Test Quizzes on Python](https://test.sanfoundry.com/python-programming-tests/#python-programming-test-quizzes)**
-- **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
-- **[Python MCQs (Multiple Choice Questions) with Answers](https://www.geeksforgeeks.org/python-multiple-choice-questions/)**
-- **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
