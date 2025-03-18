@@ -4,8 +4,8 @@
 - **[w3schools](https://www.w3schools.com/)**
 - **[Next.js Tutorial](https://www.geeksforgeeks.org/nextjs/?ref=gcse_outind)**
 - **[CodingNotes.io](https://www.codingnotes.io/)** 
-- **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Next.js in 4 Hours](https://youtu.be/eaQc7vbV4po?si=w7GAsd9VguryA99c)**
+- **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Next.JS Playlist (YouTube)](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
