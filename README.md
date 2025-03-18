@@ -8,7 +8,7 @@
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Next.JS Playlist (YouTube)](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
-- **[Cheatography (must visit)](https://cheatography.com/)**
+- **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
 - **[Streamlit Basic Guide (YouTube)](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
 - **[Python Crash Cource (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
