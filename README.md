@@ -48,7 +48,7 @@
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 
-# 📌 Quizzes and Preperation Material:
+# 📌 Challenge Yourself: Quizzes & Guides:
 - **[Python Quizzes](https://pynative.com/python/quizzes/)**
 - **[Topic-wise Test Quizzes on Python](https://test.sanfoundry.com/python-programming-tests/#python-programming-test-quizzes)**
 - **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
