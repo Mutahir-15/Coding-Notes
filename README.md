@@ -54,6 +54,7 @@
 - **[How to Use Zod for React API Validation](http://freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)**
 - **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
 - **[Mastering Git and GitHub: A Beginner’s Guide](https://guides.github.com/introduction/git-handbook/)**
+- **[Clean Frontend Architecture: Tips to Success](https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38)**
 - **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
 - **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
 - **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
