@@ -58,10 +58,10 @@
 - **[Clean Frontend Architecture: Tips to Success](https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38)**
 - **[Mastering Git and GitHub: A Beginner’s Guide](https://guides.github.com/introduction/git-handbook/)**
 - **[Tips to become 10x better in Tech Interviews](https://www.leadership-letters.com/p/tips-to-become-10x-better-in-tech?ref=dailydev)**
-- **[Consecutive Scroll Animations with One Element](https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/?ref=dailydev)**
 - **[100+ Frontend Projects to Level up Your Skills](https://uvaiscodes.blogspot.com/2024/10/frontend-projects.html?ref=dailydev)**
 - **[Introduction to Algorithms and Data Structures](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)**  
 - **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
+- **[Consecutive Scroll Animations with One Element](https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/?ref=dailydev)**
 - **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
 - **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
