@@ -37,6 +37,7 @@
 - **[Awsome DeepSeek Integration](https://github.com/deepseek-ai/awesome-deepseek-integration?ref=dailydev)**
 - **[Frontend Developers Resources](https://github.com/dypsilon/frontend-dev-bookmarks)**
 - **[Public APIs (Free APIs for practice)](https://github.com/public-apis/public-apis)**
+- **[Frontend Clean Architecture - (Reactjs, Nextjs)](https://github.com/Shpendrr/react-app-structure)**
 
 # 📌 Challenge Yourself: Quizzes & Guides:
 - **[Python Quizzes](https://pynative.com/python/quizzes/)**
@@ -71,6 +72,7 @@
 - **[A sleek Portfolio built with React.js and Tailwind CSS](https://dly.to/C2X62JT4Hfb)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
+
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
