@@ -49,6 +49,7 @@
 - **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
 
 # 📌 Must Read Articles:
+- **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 - **[Effective Debugging Techniques](https://www.geeksforgeeks.org/debugging-techniques-for-beginners/)**
