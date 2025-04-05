@@ -57,6 +57,7 @@
 - **[Effective Debugging Techniques](https://www.geeksforgeeks.org/debugging-techniques-for-beginners/)**
 - **[The Importance of Code Reviews](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)**
 - **[The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws?ref=dailydev)**
+- **[Modern REST API Tutorial in Python](https://zato.io/en/blog/modern-rest-api-tutorial-in-python.html?ref=dailydev)**
 - **[How to Write Clean, Maintainable Code](https://www.freecodecamp.org/news/10-principles-of-clean-code/)**
 - **[12 Powerful CrewAI Tools For AI Agents](https://blog.dailydoseofds.com/p/12-powerful-tools-for-ai-agents?ref=dailydev)**
 - **[Understanding Python's Data Structures](https://realpython.com/python-data-structures/)**
@@ -78,7 +79,6 @@
 - **[A sleek Portfolio built with React.js and Tailwind CSS](https://dly.to/C2X62JT4Hfb)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
-
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
