@@ -74,10 +74,10 @@
 - **[A CheatSheet of 128 CheatSheets for Developers](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev)**
 - **[Consecutive Scroll Animations with One Element](https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/?ref=dailydev)**
 - **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
-- **[Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev)**
 - **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[A sleek Portfolio built with React.js and Tailwind CSS](https://dly.to/C2X62JT4Hfb)**
+- **[Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
 
