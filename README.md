@@ -12,10 +12,11 @@
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Next.JS Playlist (YouTube)](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
+- **[Python Crash Course YouTube](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
 - **[Streamlit Basic Guide (YouTube)](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
-- **[Python Crash Cource (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
+- **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 - **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
