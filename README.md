@@ -82,8 +82,8 @@
 - **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
-- **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
 - **[China’s six-year-olds are already being offered AI classes in school](https://www.yahoo.com/news/china-six-olds-already-being-160253267.html?guccounter=1)**
+- **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
