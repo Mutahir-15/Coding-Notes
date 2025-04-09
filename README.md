@@ -9,8 +9,8 @@
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
-- **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Next.JS Playlist (YouTube)](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
+- **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
 - **[Python Crash Course YouTube](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
