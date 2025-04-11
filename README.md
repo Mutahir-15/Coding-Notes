@@ -9,13 +9,15 @@
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
-- **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Next.JS Playlist (YouTube)](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
+- **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
+- **[Python Crash Course YouTube](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
+- **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
 - **[Streamlit Basic Guide (YouTube)](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
-- **[Python Crash Cource (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
+- **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 - **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
@@ -56,11 +58,14 @@
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 - **[Effective Debugging Techniques](https://www.geeksforgeeks.org/debugging-techniques-for-beginners/)**
 - **[The Importance of Code Reviews](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)**
+- **[The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws?ref=dailydev)**
+- **[Modern REST API Tutorial in Python](https://zato.io/en/blog/modern-rest-api-tutorial-in-python.html?ref=dailydev)**
 - **[How to Write Clean, Maintainable Code](https://www.freecodecamp.org/news/10-principles-of-clean-code/)**
 - **[12 Powerful CrewAI Tools For AI Agents](https://blog.dailydoseofds.com/p/12-powerful-tools-for-ai-agents?ref=dailydev)**
 - **[Understanding Python's Data Structures](https://realpython.com/python-data-structures/)**
 - **[How to Use Zod for React API Validation](http://freecodecamp.org/news/how-to-use-zod-for-react-api-validation/?ref=dailydev)**
 - **[37 Tips from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)**
+- **[Advanced Python Features for Better Code](https://towardsdev.com/advanced-python-features-for-better-code-54842e6a1e62)**
 - **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
 - **[Clean Frontend Architecture: Tips to Success](https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38)**
 - **[Mastering Git and GitHub: A Beginner’s Guide](https://guides.github.com/introduction/git-handbook/)**
@@ -74,9 +79,13 @@
 - **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[A sleek Portfolio built with React.js and Tailwind CSS](https://dly.to/C2X62JT4Hfb)**
+- **[Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev)**
+- **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
-
+- **[China’s six-year-olds are already being offered AI classes in school](https://www.yahoo.com/news/china-six-olds-already-being-160253267.html?guccounter=1)**
+- **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
+- **[Stanford Webinar - Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)**
 
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
