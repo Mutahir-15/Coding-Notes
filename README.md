@@ -18,7 +18,6 @@
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
-- **[12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 - **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
 
@@ -50,6 +49,10 @@
 - **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
 - **[Python MCQs (Multiple Choice Questions) with Answers](https://www.geeksforgeeks.org/python-multiple-choice-questions/)**
 - **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
+
+# 📌 Project Ideas:
+- **[12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)**
+- **[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/#heading-qr-code-encoder-decoder-python-project)**
 
 # 📌 Must Read Articles:
 - **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
