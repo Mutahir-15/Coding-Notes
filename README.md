@@ -53,6 +53,7 @@
 # 📌 Project Ideas:
 - **[12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)**
 - **[60+ Python Project Ideas – Beginner to Advanced](https://www.dataquest.io/blog/python-projects-for-beginners/)**
+- **[60+ Python Projects for All Levels of Expertise](https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise)**
 - **[9 HOURS of Python Projects - From Beginner to Advanced](https://www.youtube.com/watch?v=NpmFbWO6HPU&t=165s)**
 - **[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/#heading-qr-code-encoder-decoder-python-project)**
 
