@@ -107,6 +107,8 @@ This repository is perfect for:
 - **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
 - **[Stanford Webinar - Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)**
 
+---
+
 <br>I have created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
 
 **📌 What's Inside?** <br>This repository contains cheat sheets, PDFs, and notes on various technologies, including:
