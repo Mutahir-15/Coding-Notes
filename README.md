@@ -125,4 +125,5 @@ This repository is perfect for:
 **Together, we can build a stronger, more knowledgeable tech community.**
 
 **Note:** <br>
-I have gathered this data from various developers, resources, and channels to make learning easier.<br> **All credit goes to the original creators.**
+The content has been curated from various developers, communities, and open resources.
+**Full credit goes to the original creators.**
