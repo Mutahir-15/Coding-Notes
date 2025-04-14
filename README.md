@@ -1,4 +1,15 @@
-# CodeCommons – Open Notes for Curious Minds
+# CodeCommons – Curated Developer Resources, Cheat Sheets & Project Ideas
+
+Welcome to **CodeCommons**, a centralized place for developers to find high-quality free notes, cheat sheets, tutorials, and open-source learning resources. Whether you're just starting out or leveling up your stack, this is your go-to bookmark.
+
+This repository is perfect for:
+- Developers learning Python, JavaScript, Next.js, and AI tools
+- Students preparing for coding interviews
+- Anyone looking for organized learning paths and PDF resources
+
+---
+
+## 📚 Free Developer Cheat Sheets & Programming Notes
 # 📌 Free Cheat Sheets, Notes & Tutorials:
 - **[DevDocs](https://devdocs.io/)**
 - **[w3schools](https://www.w3schools.com/)**
