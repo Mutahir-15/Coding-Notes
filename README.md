@@ -30,6 +30,7 @@
 - **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
+- **[Python Crash Course](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
 
 # 📌 Free PDFs & Books:
 - **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
