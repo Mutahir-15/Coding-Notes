@@ -19,6 +19,7 @@
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[The Mighty *"with"* Statement in Python](https://github.com/panaversity/learn-modern-ai-python/blob/main/00_python_colab/Appendix/with%20statement%20in%20Python.md)**
+- **[Beginner Python Cheat-Sheet ppc-all PDF](https://github.com/panaversity/learn-modern-ai-python/blob/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/beginners_python_cheat_sheet_pcc_all.pdf)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 - **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
 
