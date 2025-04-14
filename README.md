@@ -1,4 +1,4 @@
-# 🌍 Knowledge Without Borders – Open Source Learning Hub 🚀
+# Knowledge Without Borders – Open Source Learning Hub
 # 📌 Free Cheat Sheets, Notes & Tutorials:
 - **[DevDocs](https://devdocs.io/)**
 - **[w3schools](https://www.w3schools.com/)**
