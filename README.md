@@ -125,5 +125,5 @@ This repository is perfect for:
 **Together, we can build a stronger, more knowledgeable tech community.**
 
 **Note:** <br>
-The content has been curated from various developers, communities, and open resources.
+The content has been curated from various developers, communities, and open resources.<br>
 **Full credit goes to the original creators.**
