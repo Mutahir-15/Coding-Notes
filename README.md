@@ -9,7 +9,6 @@ This repository is perfect for:
 
 ---
 
-## 📚 Free Developer Cheat Sheets & Programming Notes
 # 📌 Free Cheat Sheets, Notes & Tutorials:
 - **[DevDocs](https://devdocs.io/)**
 - **[w3schools](https://www.w3schools.com/)**
