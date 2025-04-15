@@ -65,7 +65,7 @@ This repository is perfect for:
 - **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
 
 # 📌 Project Ideas:
-- **[Top 15+ Next.js Projects with Source Code](https://www.guvi.in/blog/top-nextjs-projects-for-all-levels/)**
+- **[15+ Next.js Projects with Source Code](https://www.guvi.in/blog/top-nextjs-projects-for-all-levels/)**
 - **[12 Beginner Python Projects - Coding Course](https://www.youtube.com/watch?v=8ext9G7xspg&t=100s)**
 - **[60+ Python Projects for All Levels of Expertise](https://www.datacamp.com/blog/60-python-projects-for-all-levels-expertise)**
 - **[60+ Python Project Ideas – Beginner to Advanced](https://www.dataquest.io/blog/python-projects-for-beginners/)**
