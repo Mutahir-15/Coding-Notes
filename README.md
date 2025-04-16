@@ -8,9 +8,9 @@ This repository is perfect for:
 - Anyone looking for organized learning paths and PDF resources
 
 
-# [No Motivation To Code? Watch This!](https://www.youtube.com/watch?v=KMU8_NWefZI)
+# No Motivation To Code?
 > 💡 Even the best devs feel off sometimes. Here’s a quick reminder to keep going.
-
+[Watch the video](https://www.youtube.com/watch?v=KMU8_NWefZI) to refuel your drive.
 ---
 
 # 📌 Free Cheat Sheets & Notes:
