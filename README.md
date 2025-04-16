@@ -9,7 +9,7 @@ This repository is perfect for:
 
 ---
 
-# 📌 Free Cheat Sheets, Notes & Tutorials:
+# 📌 Free Cheat PDFs, Sheets & Notes:
 - **[DevDocs](https://devdocs.io/)**
 - **[w3schools](https://www.w3schools.com/)**
 - **[Next.js Tutorial](https://www.geeksforgeeks.org/nextjs/?ref=gcse_outind)**
@@ -19,15 +19,11 @@ This repository is perfect for:
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
-- **[Next.JS Playlist (YouTube)](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
-- **[Python Crash Course YouTube](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
-- **[Streamlit Basic Guide (YouTube)](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
-- **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[The Mighty *"with"* Statement in Python](https://github.com/panaversity/learn-modern-ai-python/blob/main/00_python_colab/Appendix/with%20statement%20in%20Python.md)**
 - **[Beginner Python Cheat-Sheet ppc-all PDF](https://github.com/panaversity/learn-modern-ai-python/blob/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/beginners_python_cheat_sheet_pcc_all.pdf)**
 - **[Beginner Python Cheat-Sheet individual PDF](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/individual_sheets_color)**
@@ -40,7 +36,13 @@ This repository is perfect for:
 - **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
-- **[Python Crash Course](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
+- 
+# 📌 YouTube Crash Courses & Tutorials:
+- **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
+- **[Python Crash Course](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
+- **[Streamlit Basic Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
+- **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
+- **[Python Crash Course (GitHub | Panaversity)](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
 
 # 📌 Free PDFs & Books:
 - **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
