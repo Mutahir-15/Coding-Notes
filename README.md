@@ -7,8 +7,10 @@ This repository is perfect for:
 - Students preparing for coding interviews
 - Anyone looking for organized learning paths and PDF resources
 
-# No Motivation to Code? Watch This!
-[No Motivation To Code?](https://www.youtube.com/watch?v=KMU8_NWefZI)
+
+# [No Motivation To Code? Watch This!](https://www.youtube.com/watch?v=KMU8_NWefZI)
+> 💡 Even the best devs feel off sometimes. Here’s a quick reminder to keep going.
+
 ---
 
 # 📌 Free Cheat Sheets & Notes:
