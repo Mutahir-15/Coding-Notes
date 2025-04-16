@@ -14,7 +14,6 @@ This repository is perfect for:
 - **[w3schools](https://www.w3schools.com/)**
 - **[Next.js Tutorial](https://www.geeksforgeeks.org/nextjs/?ref=gcse_outind)**
 - **[CodingNotes.io](https://www.codingnotes.io/)** 
-- **[Next.js in 4 Hours](https://youtu.be/eaQc7vbV4po?si=w7GAsd9VguryA99c)**
 - **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
@@ -28,7 +27,6 @@ This repository is perfect for:
 - **[Beginner Python Cheat-Sheet ppc-all PDF](https://github.com/panaversity/learn-modern-ai-python/blob/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/beginners_python_cheat_sheet_pcc_all.pdf)**
 - **[Beginner Python Cheat-Sheet individual PDF](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/individual_sheets_color)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
-- **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
 
 # 📌 Free Panaversity Repositories:
 - **[Panaversity YouTube](https://www.youtube.com/@panaverse)**
@@ -40,6 +38,7 @@ This repository is perfect for:
 - 
 # 📌 YouTube Crash Courses & Tutorials:
 - **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
+- **[Next.js in 4 Hours](https://youtu.be/eaQc7vbV4po?si=w7GAsd9VguryA99c)**
 - **[Python Crash Course](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
 - **[Streamlit Basic Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
@@ -48,6 +47,7 @@ This repository is perfect for:
 - **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
 - **[Goalkicker (Free Notes and PDFs)](https://goalkicker.com/)**
 - **[Eloquent Javascript (A must read for Javascript Developers)](https://eloquentjavascript.net/)**
+- **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
 
 # 📌 Open-Source Learning Repositories:
 - **[The Algorithms](http://github.com/TheAlgorithms)**
