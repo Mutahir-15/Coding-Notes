@@ -36,13 +36,13 @@ This repository is perfect for:
 - **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
+- **[Python Crash Cours](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
 - 
 # 📌 YouTube Crash Courses & Tutorials:
 - **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Python Crash Course](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
 - **[Streamlit Basic Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
-- **[Python Crash Course (GitHub | Panaversity)](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
 
 # 📌 Free PDFs & Books:
 - **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
