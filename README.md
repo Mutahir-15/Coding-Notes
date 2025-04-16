@@ -7,6 +7,7 @@ This repository is perfect for:
 - Students preparing for coding interviews
 - Anyone looking for organized learning paths and PDF resources
 
+# No Motivation to Code? Watch This!
 [No Motivation To Code?](https://www.youtube.com/watch?v=KMU8_NWefZI)
 ---
 
