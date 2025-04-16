@@ -10,6 +10,7 @@ This repository is perfect for:
 
 # No Motivation To Code?
 > 💡 Even the best devs feel off sometimes. Here’s a quick reminder to keep going.<br>
+
 [**Watch the video**](https://www.youtube.com/watch?v=KMU8_NWefZI) to refuel your drive.
 ---
 
