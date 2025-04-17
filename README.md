@@ -68,11 +68,11 @@ This repository is perfect for:
 - **[Python Quizzes](https://pynative.com/python/quizzes/)**
 - **[Next.js Mock Test](https://www.vskills.in/practice/next.js-mock-test)**
 - **[W3Schools Python Quiz ](https://www.w3schools.com/python/python_quiz.asp)**
+- **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
 - **[Python Quizzes (realpython.com)](https://realpython.com/quizzes/)**
 - **[Topic-wise Test Quizzes on Python](https://test.sanfoundry.com/python-programming-tests/#python-programming-test-quizzes)**
 - **[1000+ Multiple Choice questions on  Pyhton](https://www.sanfoundry.com/1000-python-questions-answers/)**
 - **[Python MCQs (Multiple Choice Questions) with Answers](https://www.geeksforgeeks.org/python-multiple-choice-questions/)**
-- **[Python Erecism | Practice](https://exercism.org/tracks/python/exercises)**
 
 # 📌 Project Ideas:
 - **[15+ Next.js Projects with Source Code](https://www.guvi.in/blog/top-nextjs-projects-for-all-levels/)**
