@@ -66,6 +66,7 @@ This repository is perfect for:
 
 # 📌 Challenge Yourself: Quizzes & Guides:
 - **[Python Quizzes](https://pynative.com/python/quizzes/)**
+- **[Next.js Mock Test](https://www.vskills.in/practice/next.js-mock-test)**
 - **[W3Schools Python Quiz ](https://www.w3schools.com/python/python_quiz.asp)**
 - **[Python Quizzes (realpython.com)](https://realpython.com/quizzes/)**
 - **[Topic-wise Test Quizzes on Python](https://test.sanfoundry.com/python-programming-tests/#python-programming-test-quizzes)**
