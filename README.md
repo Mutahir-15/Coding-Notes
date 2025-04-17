@@ -22,6 +22,7 @@ This repository is perfect for:
 - **[Python CheatSheet](https://www.pythoncheatsheet.org/)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
+- **[CSS Animations Generator](https://webcode.tools/css-generator/keyframe-animation?ref=dailydev)**
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
