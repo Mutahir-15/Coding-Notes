@@ -32,12 +32,12 @@ This repository is perfect for:
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 
 # 📌 Free Panaversity Repositories:
+- **[Python Crash Cours](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
 - **[Panaversity learn-nextjs](https://github.com/panaverse/learn-nextjs)**
 - **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
-- **[Python Crash Cours](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
-- 
+
 # 📌 YouTube Crash Courses & Tutorials:
 - **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Next.js in 4 Hours](https://youtu.be/eaQc7vbV4po?si=w7GAsd9VguryA99c)**
