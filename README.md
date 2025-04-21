@@ -23,8 +23,8 @@ This repository is perfect for:
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
-- **[CSS Animations Generator](https://webcode.tools/css-generator/keyframe-animation?ref=dailydev)**
 - **[Tailwind CSS Cheat-Sheet](https://tailwindcss.504b.cc/?ref=dailydev)**
+- **[CSS Animations Generator](https://webcode.tools/css-generator/keyframe-animation?ref=dailydev)**
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
