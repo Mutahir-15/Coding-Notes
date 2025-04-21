@@ -34,6 +34,7 @@ This repository is perfect for:
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
 
 # 📌 Free Panaversity Repositories:
+- **[Panaversity.org](https://panaversity.org/)**
 - **[Python Crash Cours](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course)**
 - **[Panaversity learn-nextjs](https://github.com/panaverse/learn-nextjs)**
 - **[Panaversity learn-typescript](https://github.com/panaverse/learn-typescript)**
