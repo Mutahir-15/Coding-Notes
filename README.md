@@ -41,9 +41,6 @@ This repository is perfect for:
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
 
-# 📌 Google API Library:
-- **[Google API Library](https://console.cloud.google.com/apis/library/browse?filter=category:maps&project=react-native-maps-457717)**
-
 # 📌 YouTube Crash Courses & Tutorials:
 - **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Next.js in 4 Hours](https://youtu.be/eaQc7vbV4po?si=w7GAsd9VguryA99c)**
@@ -57,6 +54,9 @@ This repository is perfect for:
 - **[HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)**
 - **[Complete Streamlit course for python developers](https://www.youtube.com/watch?v=yKTEC1Y5bEQ)**
 - **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
+
+# 📌 Google API Library:
+- **[Google API Library](https://console.cloud.google.com/apis/library/browse?filter=category:maps&project=react-native-maps-457717)**
 
 # 📌 Free PDFs & Books:
 - **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
