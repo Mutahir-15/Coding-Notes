@@ -41,6 +41,9 @@ This repository is perfect for:
 - **[Panaversity learn-agentic-ai](https://github.com/panaverse/learn-agentic-ai)**
 - **[Panaversity learn-modern-ai-python](https://github.com/panaverse/learn-modern-ai-python)**
 
+# 📌 Google API Library:
+- **[Google API Library](https://console.cloud.google.com/apis/library/browse?filter=category:maps&project=react-native-maps-457717)**
+
 # 📌 YouTube Crash Courses & Tutorials:
 - **[Next.JS Playlist](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)**
 - **[Next.js in 4 Hours](https://youtu.be/eaQc7vbV4po?si=w7GAsd9VguryA99c)**
