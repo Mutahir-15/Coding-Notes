@@ -106,6 +106,7 @@ This repository is perfect for:
 - **[37 Tips from a Senior Frontend Developer](https://dev.to/_ndeyefatoudiop/37-tips-from-a-senior-frontend-developer-251b?ref=dailydev)**
 - **[Advanced Python Features for Better Code](https://towardsdev.com/advanced-python-features-for-better-code-54842e6a1e62)**
 - **[Top Next.js Tools for Next-Gen Developers](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)**
+- **[Open Source UI-TOOLS for Designer/Developer](https://tools.ui-layouts.com/?ref=dailydev)**
 - **[Clean Frontend Architecture: Tips to Success](https://blog.stackademic.com/clean-frontend-architecture-tips-to-success-db0b159b7b38)**
 - **[Mastering Git and GitHub: A Beginner’s Guide](https://guides.github.com/introduction/git-handbook/)**
 - **[Tips to become 10x better in Tech Interviews](https://www.leadership-letters.com/p/tips-to-become-10x-better-in-tech?ref=dailydev)**
