@@ -50,6 +50,7 @@ This repository is perfect for:
 - **[Python Crash Course](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[Complete Typescript in under 5 hours](https://www.youtube.com/watch?v=ZchBYjHFCC4)**
+- **[Agents SDK from OpenAI! | Full Tutorial](https://www.youtube.com/watch?v=35nxORG1mtg)**
 - **[Beginner Python Cheat-Sheet ppc-all PDF](https://github.com/panaversity/learn-modern-ai-python/blob/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/beginners_python_cheat_sheet_pcc_all.pdf)**
 - **[Beginner Python Cheat-Sheet individual PDF](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/individual_sheets_color)**
 - **[HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)**
