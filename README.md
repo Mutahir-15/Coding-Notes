@@ -48,6 +48,7 @@ This repository is perfect for:
 - **[Panaversity YouTube](https://www.youtube.com/@panaverse)**
 - **[Streamlit Basic Guide](https://www.youtube.com/watch?v=8W8NQFFbDcU)**
 - **[Python Crash Course](https://www.youtube.com/playlist?list=PLSbJ7w914ZvDvwKUlhFIiMVS30xB5Fjwf)**
+- **[Fast API Crash Course | Easy Way](https://www.youtube.com/watch?v=TQfIUS52QHA)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[Complete Typescript in under 5 hours](https://www.youtube.com/watch?v=ZchBYjHFCC4)**
 - **[Agents SDK from OpenAI! | Full Tutorial](https://www.youtube.com/watch?v=35nxORG1mtg)**
