@@ -56,6 +56,7 @@ This repository is perfect for:
 - **[Beginner Python Cheat-Sheet individual PDF](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/individual_sheets_color)**
 - **[HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)**
 - **[Complete Streamlit course for python developers](https://www.youtube.com/watch?v=yKTEC1Y5bEQ)**
+- **[Set up Google OAuth with Next.js using Next-Auth!](https://www.youtube.com/watch?v=ot9yuKg15iA&t=761s)**
 - **[Tailwind CSS v4 Full Course 2025 | Master Tailwind in One Hour](https://www.youtube.com/watch?v=6biMWgD6_JY&t=2s)**
 
 # 📌 Google API Library:
