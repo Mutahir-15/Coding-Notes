@@ -4,7 +4,7 @@ Welcome to **CodeCommons**, a centralized place for developers to find high-qual
 
 This repository is perfect for:
 - Developers learning Python, JavaScript, Next.js, and AI tools
-- Students preparing for coding interviews
+- Students preparing for coding interviews and exams
 - Anyone looking for organized learning paths and PDF resources
 
 
