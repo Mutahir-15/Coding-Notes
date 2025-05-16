@@ -28,6 +28,7 @@ This repository is perfect for:
 - **[CSS Animations Generator](https://webcode.tools/css-generator/keyframe-animation?ref=dailydev)**
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
+- **[4 Basic Pillars of Python OOP](https://www.pythoncheatsheet.org/cheatsheet/oop-basics)**
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
