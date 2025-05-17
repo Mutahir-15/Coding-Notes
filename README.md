@@ -32,6 +32,7 @@ This repository is perfect for:
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
 - **[Understanding Web Development](https://www.geeksforgeeks.org/web-development/)**
+- **[Object-Oriented Programming in Python](https://www.codecademy.com/learn/python-for-programmers/modules/object-oriented-programming-in-python/cheatsheet)**
 - **[The Mighty *"with"* Statement in Python](https://github.com/panaversity/learn-modern-ai-python/blob/main/00_python_colab/Appendix/with%20statement%20in%20Python.md)**
 - **[100 Days of Code - The Complete Python Course](https://replit.com/learn/100-days-of-python?ref=dailydev)**
 - **[Python Tutorial | Learn Python Programming Language](https://www.geeksforgeeks.org/python-programming-language-tutorial/)**
