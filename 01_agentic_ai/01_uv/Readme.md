@@ -24,7 +24,7 @@ Welcome to the **Introduction to UV** project! This README provides a beginner-f
 
 ## 📦 Installation
 
-You can install UV using the following command:
+You can install UV using the following commands:
 
 macOs and Linux:
 ```bash
