@@ -54,8 +54,8 @@ uv venv         # Create a virtual environment
 
 ## 📚 Resources
 
-- **[Official UV Docs]**(https://github.com/astral-sh/uv)
-- **[PyPI Page]**(https://pypi.org/project/uv/)
+- **[Official UV Docs](https://github.com/astral-sh/uv)**
+- **[PyPI Page](https://pypi.org/project/uv/)**
 
 ---
 
