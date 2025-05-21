@@ -35,3 +35,36 @@ Windows:
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
+
+---
+
+## 🧪 Getting Started
+
+Inuitialize the project using the following commands:
+```
+uv init project_name  # It creates the project
+```
+
+Create a virtual environment and install dependencies using uv:
+```
+uv venv         # Create a virtual environment
+```
+
+---
+
+## 📚 Resources
+
+- **[Official UV Docs]**(https://github.com/astral-sh/uv)
+- **[PyPI Page]**(https://pypi.org/project/uv/)
+
+---
+
+## 🏷️ License
+
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
