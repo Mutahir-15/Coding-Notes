@@ -131,6 +131,7 @@ This repository is perfect for:
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
 - **[China’s six-year-olds are already being offered AI classes in school](https://www.yahoo.com/news/china-six-olds-already-being-160253267.html?guccounter=1)**
 - **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
+- **[Basic AI Prompts for Developers: Practical Examples for Everyday Tasks](https://portkey.ai/blog/basic-ai-prompts-for-developers/?ref=dailydev)**
 - **[Stanford Webinar - Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)**
 
 ---
