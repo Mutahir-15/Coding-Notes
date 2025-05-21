@@ -132,6 +132,7 @@ This repository is perfect for:
 - **[China’s six-year-olds are already being offered AI classes in school](https://www.yahoo.com/news/china-six-olds-already-being-160253267.html?guccounter=1)**
 - **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
 - **[Stanford Webinar - Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)**
+- **[Basic AI Prompts for Developers: Practical Examples for Everyday Tasks](https://portkey.ai/blog/basic-ai-prompts-for-developers/?ref=dailydev)**
 
 ---
 <br>I created this repository to share valuable learning resources and make knowledge accessible to everyone, everywhere.<br>**I firmly believe that when we ease the journey for others, Allah Almighty eases ours in return.**<br> This repo is my small effort to contribute to a global learning community.
