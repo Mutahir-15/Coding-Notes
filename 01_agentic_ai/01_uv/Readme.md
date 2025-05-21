@@ -26,12 +26,12 @@ Welcome to the **Introduction to UV** project! This README provides a beginner-f
 
 You can install UV using the following commands:
 
-macOs and Linux:
+**macOs and Linux:**
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Windows:
+**Windows:**
 ```
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
@@ -40,12 +40,12 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ## 🧪 Getting Started
 
-Inuitialize the project using the following commands:
+**Inuitialize the project using the following commands:**
 ```
 uv init project_name  # It creates the project
 ```
 
-Create a virtual environment and install dependencies using uv:
+**Create a virtual environment and install dependencies using uv:**
 ```
 uv venv         # Create a virtual environment
 ```
