@@ -54,8 +54,12 @@ uv venv         # Create a virtual environment
 
 ## 📚 Resources
 
-- **[Official UV Docs](https://github.com/astral-sh/uv)**
+- **[Official UV Docs](https://docs.astral.sh/uv/)**
 - **[PyPI Page](https://pypi.org/project/uv/)**
+- **[Python UV: The Ultimate Guide to the Fastest Python Package Manager](https://www.datacamp.com/tutorial/python-uv)**
+- **[Running scripts](https://docs.astral.sh/uv/)**
+- **[CLI Reference](https://docs.astral.sh/uv/reference/cli/)**
+- **[Watch: Python Setup, Simplified: A Complete UV Tutorial!](https://www.youtube.com/watch?v=-J5SnWR4UXw)**
 
 ---
 
