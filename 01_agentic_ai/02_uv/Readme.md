@@ -54,6 +54,7 @@ uv venv         # Create a virtual environment
 
 ## 📚 Resources
 
+- **[Panaversity Agentic AI](https://github.com/panaversity/learn-agentic-ai/tree/main)**
 - **[Official UV Docs](https://docs.astral.sh/uv/)**
 - **[PyPI Page](https://pypi.org/project/uv/)**
 - **[Python UV: The Ultimate Guide to the Fastest Python Package Manager](https://www.datacamp.com/tutorial/python-uv)**
