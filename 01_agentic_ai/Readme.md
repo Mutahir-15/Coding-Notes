@@ -34,7 +34,7 @@ This project leverages the following frameworks:
 
 ## 📚 Learning Resources
 
-**[Panaversity Learn Agentic-Ai](https://github.com/panaversity/learn-agentic-ai/tree/main)**
+**[Panaversity Learn Agentic-AI](https://github.com/panaversity/learn-agentic-ai/tree/main)**
 
 ---
 
