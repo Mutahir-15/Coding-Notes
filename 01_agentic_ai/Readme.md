@@ -12,11 +12,11 @@ This repository serves as a foundational guide and codebase for understanding an
 
 Agentic AI is transforming industries by enabling more intelligent, responsive systems. Key applications include:
 
-- Autonomous Assistants: Intelligent personal agents that schedule meetings, summarize emails, or perform research.
-- Customer Support Bots: Conversational agents with memory, handoffs, and context-awareness.
-- Task Automation: Agents that operate software, monitor dashboards, or take corrective actions.
-- Data Analysis: Self-directed agents that explore datasets, extract insights, and generate reports.
-- Game AI: Characters and entities that make strategic decisions based on dynamic gameplay.
+- **Autonomous Assistants:** Intelligent personal agents that schedule meetings, summarize emails, or perform research.
+- **Customer Support Bots:** Conversational agents with memory, handoffs, and context-awareness.
+- **Task Automation:** Agents that operate software, monitor dashboards, or take corrective actions.
+- **Data Analysis:** Self-directed agents that explore datasets, extract insights, and generate reports.
+- **Game AI:** Characters and entities that make strategic decisions based on dynamic gameplay.
 
 ---
 
@@ -24,11 +24,11 @@ Agentic AI is transforming industries by enabling more intelligent, responsive s
 
 This project leverages the following frameworks:
 
-- 🔹 OpenAI Agent SDK – For building structured agents with tools, planning, and memory.
-- 🔹 Streamlit – To create interactive dashboards and UI for agent interaction.
-- 🔹 UV (Universal Virtualenv) – For package and environment management.
-- 🔹 OpenRouter – For accessing and routing between multiple LLM providers.
-- 🔹 Function Tools & Tracing – For detailed understanding of execution and debugging.
+- 🔹 **OpenAI Agent SDK** – For building structured agents with tools, planning, and memory.
+- 🔹 **Streamlit** – To create interactive dashboards and UI for agent interaction.
+- 🔹 **UV (Universal Virtualenv)** – For package and environment management.
+- 🔹 **OpenRouter** – For accessing and routing between multiple LLM providers.
+- 🔹 **Function Tools & Tracing** – For detailed understanding of execution and debugging.
 
 - ---
 
